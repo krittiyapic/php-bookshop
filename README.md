@@ -1,3 +1,4 @@
 # php-bookshop
 
-webisite 
+Simulate online book shop.
+website https://krittiyapichai.000webhostapp.com/shop.php
